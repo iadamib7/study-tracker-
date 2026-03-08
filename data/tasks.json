@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Finish Python assignment",
+        "subject": "Computer Science",
+        "due_date": "2026-03-10",
+        "completed": false
+    },
+    {
+        "title": "Read chapter 4",
+        "subject": "Math",
+        "due_date": "2026-03-11",
+        "completed": true
+    },
+    {
+        "title": "Prepare lab notes",
+        "subject": "Physics",
+        "due_date": "2026-03-12",
+        "completed": false
+    },
+    {
+        "title": "chem pset",
+        "subject": "chem",
+        "due_date": "2026-03-08",
+        "completed": false
+    }
+]

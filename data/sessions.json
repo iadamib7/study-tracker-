@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Computer Science",
+        "duration_minutes": 60,
+        "session_date": "2026-03-05"
+    },
+    {
+        "subject": "Math",
+        "duration_minutes": 45,
+        "session_date": "2026-03-06"
+    },
+    {
+        "subject": "Physics",
+        "duration_minutes": 30,
+        "session_date": "2026-03-06"
+    }
+]
